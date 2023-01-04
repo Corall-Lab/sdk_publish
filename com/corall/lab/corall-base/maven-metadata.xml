@@ -3,8 +3,8 @@
   <groupId>com.corall.lab</groupId>
   <artifactId>corall-base</artifactId>
   <versioning>
-    <latest>15.2.2</latest>
-    <release>15.2.2</release>
+    <latest>15.2.3</latest>
+    <release>15.2.3</release>
     <versions>
       <version>14.0.6</version>
       <version>14.0.7</version>
@@ -22,7 +22,8 @@
       <version>15.2.0</version>
       <version>15.2.1</version>
       <version>15.2.2</version>
+      <version>15.2.3</version>
     </versions>
-    <lastUpdated>20230103063009</lastUpdated>
+    <lastUpdated>20230104043610</lastUpdated>
   </versioning>
 </metadata>
